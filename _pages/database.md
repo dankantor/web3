@@ -1,6 +1,5 @@
 # Database
 
-## What is a Database?
 According to [Wikipedia](https://en.wikipedia.org/wiki/Database) a database is an organized collection of data stored and accessed electronically from a computer system. 
 
 Let's break that down to help us understand exactly what that sentence means. To help us, let's use Twitter as an example and see how they use a database to power their service. 
