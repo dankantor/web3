@@ -16,7 +16,7 @@ Databases are similar to spreadsheets. In this case, a tweet in Twitter's databa
 | ----------- | ----------- | ----------- |
 | This is a really great tweet     | @dankantor       | Dec 27, 2021 |
 
-Every tweet created is stored in Twitter's database. When you use the Twitter app it is accessing this data.
+Every tweet created is stored in Twitter's database. There are billions of rows. When you use the Twitter app it is accessing this data.
 
 ## Electronic Access
 
