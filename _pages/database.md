@@ -2,7 +2,7 @@
 
 According to [Wikipedia](https://en.wikipedia.org/wiki/Database) a database is an organized collection of data stored and accessed electronically from a computer system. 
 
-Let's break that down to help us understand exactly what that sentence means. To help us, let's use Twitter as an example and see how they use a database to power their service. 
+Let's break that down to help us understand exactly what that sentence means. We'll use Twitter as an example and see how they use a database to power their service. 
 
 ## Stored Data
 
@@ -26,4 +26,4 @@ We are oversimplifying now but imagine that Twitter's database is running in a d
 
 ## Conclusion
 
-Most apps and websites have a database that stores all of its data. Your phone talks to this database and then displays the data according to how the app or website is designed. In the case of Twitter, there are millions of people running the Twitter app and they are all talking to Twitter's database. Since Twitter's database is running on a computer that only Twitter controls, we call this a centralized database. In the next section let's learn about decentralized databases and how they are different from centralized ones. 
+Most apps and websites, like Twitter, have a database that stores all of its data. Your phone talks to this database and then displays the data according to how the app or website is designed. In the case of Twitter, there are millions of people running the Twitter app and they are all talking to Twitter's database. Since Twitter's database is running on a computer that only Twitter controls, we call this a centralized database. In the next section let's learn about decentralized databases and how they are different from centralized ones. 
