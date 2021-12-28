@@ -6,7 +6,7 @@ Let's break it down to help us understand exactly what that sentence means. We'l
 
 ## Stored Data
 
-Twitter has lots of data. To keep things simple, let's focus on one type of data - a tweet. A tweet in Twitter has certain properties such as text, an author, and a date. There are other properties a tweet may have but we are keeping it simple.
+Twitter has lots of data. To keep things simple, let's focus on one type of data - a tweet. A tweet in Twitter has a few properties including text, an author, and a date.
 
 To represent a tweet in Twitter's database, think of how a spreadsheet works. It has columns and rows. A column typically contains the property name and the row contains the actual data. 
 
