@@ -22,6 +22,6 @@ Running a centralized database that millions of people use is not easy. In the e
 
 A centralized database is a prime target for hackers. Billions of tweets exist inside of Twitter's database. Facebook's database has personal information on billions of people. Our bank's database holds all of our personal assets. Every day bad actors attempt to steal data from these centralized databases. 
 
-## Decentralized databases to the rescue
+## What is a decentralized database?
 
 A decentralized database exists across multiple computers and is not controlled by a single entity. This makes it somewhat immune to the problems listed above. 
