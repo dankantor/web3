@@ -6,7 +6,7 @@ In our last article we looked at the basic idea behind databases. We saw how Twi
 
 Twitter has lots of data which they store in their centralized database. This includes tweets, users, and more. Since Twitter controls their own database, they get to decide who can read from it and who can write to it. This is true for all companies that control their own database (Facebook, Google, etc). They have sole discretion over its uses.
 
-## Banning users
+### Banning users
 
 Let's say Twitter decides that they do not want someone writing to their database. Since they are in control, they can ban anyone they please. This is not a hypothetical concept. In January 2021, Twitter banned the President of the United States from using their service. We can all agree or disagree about the merits of this ban. But what we cannot disagree on is that it happened. When a company controls a centralized database, they get to decide who can and cannot access it. 
 
@@ -22,4 +22,6 @@ Running a centralized database that millions of people use is not easy. In the e
 
 A centralized database is a prime target for hackers. Billions of tweets exist inside of Twitter's database. Facebook's database has personal information on billions of people. Our bank's database holds all of our personal assets. Every day bad actors attempt to steal data from these centralized databases. 
 
+## Decentralized databases to the rescue
 
+A decentralized database exists across multiple computers and is not controlled by a single entity. This makes it somewhat immune to the problems listed above. 
