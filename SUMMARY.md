@@ -1,3 +1,3 @@
 # Table of contents
 
-* [Databse](README.md)
+* [Database](README.md)
