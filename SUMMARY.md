@@ -1,4 +1,5 @@
 # Table of contents
 
-* [Database](README.md)
+* [Web3 Introduction](README.md)
+* [Database](<README (1).md>)
 * [Decentralized Database](decentralized-database.md)

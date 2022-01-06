@@ -4,7 +4,7 @@ description: What is a decentralized database?
 
 # Decentralized Database
 
-In our last [article](./) we looked at the basic idea behind databases. We saw how Twitter stores tweets and millions of people access them. While Twitter's database is an incredibly useful service for the world, let's explore why Twitter's use of a centralized database has some downsides, and then see how a decentralized database may offer some fixes to these issues.
+In our last [article](<README (1).md>) we looked at the basic idea behind databases. We saw how Twitter stores tweets and millions of people access them. While Twitter's database is an incredibly useful service for the world, let's explore why Twitter's use of a centralized database has some downsides, and then see how a decentralized database may offer some fixes to these issues.
 
 ### Centralized database downsides
 
